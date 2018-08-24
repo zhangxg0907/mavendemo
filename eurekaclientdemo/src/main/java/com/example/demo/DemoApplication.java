@@ -32,8 +32,8 @@ public class DemoApplication {
 	@Value("${server.port}")
 	String port;
     //UserMapper.insert();
-	@Autowired
-	private UserMapper usermapper;//这里会报错，但是并不会影响
+	//@Autowired
+	//private UserMapper usermapper;//这里会报错，但是并不会影响
     //private User user;
 	@RequestMapping("/hi")
 	public String home(@RequestParam(value = "name", defaultValue = "forezp") String name) {

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eurekaclientdemo/eurekaclientdemo.iml" filepath="$PROJECT_DIR$/eurekaclientdemo/eurekaclientdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserverdemo/eurekaserverdemo.iml" filepath="$PROJECT_DIR$/eurekaserverdemo/eurekaserverdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavendemo.iml" filepath="$PROJECT_DIR$/mavendemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbondemo/ribbondemo.iml" filepath="$PROJECT_DIR$/ribbondemo/ribbondemo.iml" />
+    </modules>
+  </component>
+</project>
